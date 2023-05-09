@@ -1,6 +1,7 @@
-# Imam's Portofolio
-### Click The Title
+# Imam Zarkasie Portofolio
 
+
+### Click The Title
 # [Boston Uber Price Modeling](https://github.com/imamzarkasie/Imam_Portofolio/blob/main/Boston_Uber_Price_Modeling.ipynb)
 * Create a Regression model using Linear Regression to predict ride-hailing platform trip prices with the dataset provided.
 * Handling over 693071 data rows and 57 columns.
