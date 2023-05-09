@@ -20,7 +20,7 @@
 ![](https://github.com/imamzarkasie/Imam_Portofolio/blob/main/mar-daniel-garcia-8-bit-art-batman.jpg)
 
 
-# [E Commerce SQL_Case](https://github.com/imamzarkasie/Imam_Portofolio/blob/main/Starbucks_Customer_Analysis.ipynb)
+# [E-Commerce SQL_Case](https://github.com/imamzarkasie/Imam_Portofolio/blob/main/Starbucks_Customer_Analysis.ipynb)
 * Querying dataset from Google BigQuery.
 * Provide information from required queries.
 * Determine factors that affect the profitability of an e-commerce.
