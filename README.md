@@ -1,5 +1,7 @@
+# Imam_Portofolio
 
+# [Project 1:Used Car Price Modeling] (https://github.com/imamzarkasie/Portofolio/blob/main/Used_Car_Price_Modeling.ipynb)
+* Create a model to estimate used car prices.
+* Handling over 24000 data rows and 10 multivariate columns.
+* Engineered features from the dataset of each utility.
 
-# Portofolio
-
-Project 1: https://colab.research.google.com/drive/1qe_nUWgSKfbtELUYWH6L_TbqAleuNIVL?authuser=1#scrollTo=eRmWT5f7LLJ1
