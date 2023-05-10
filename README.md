@@ -11,6 +11,7 @@
 # [Starbucks Customer Analysis](https://github.com/imamzarkasie/Imam_Portofolio/blob/main/Starbucks_Customer_Analysis.ipynb)
 * Analyzing customer behavior and demograhics.
 * Observing customer loyalty and seeing improvement gaps that can be done by Starbucks.
+* Provide statistical dashboard in Tableau for customer demographics.
 
 
 # [Superhero Image Classifier](https://github.com/imamzarkasie/Imam_Portofolio/blob/main/Superhero_Image_Classifier.ipynb)
