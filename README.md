@@ -2,7 +2,6 @@
 
 
 ### Welcome
-<body>
     <p> Imam Zarkasie Data Science Portofolio <p>
   
 # [FIFA 2022 Player Rating Prediction](https://huggingface.co/spaces/imamzarkasie/FIFA-2022-Player-Prediction)
