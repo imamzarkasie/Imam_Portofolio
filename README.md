@@ -2,6 +2,11 @@
 
 
 ### Click The Title
+# [FIFA 2022 Player Rating Prediction](https://huggingface.co/spaces/imamzarkasie/FIFA-2022-Player-Prediction)
+* Create a prediction model for the FIFA 2022 player rating with interactive website ouput.
+* Explore the attributes of football players in FIFA 2022.
+
+
 # [Boston Uber Price Modeling](https://github.com/imamzarkasie/Imam_Portofolio/blob/main/Boston_Uber_Price_Modeling.ipynb)
 * Create a Regression model using Linear Regression to predict ride-hailing platform trip prices with the dataset provided.
 * Handling over 693071 data rows and 57 columns.
