@@ -46,4 +46,7 @@
 * Create a model to estimate used car prices.
 * Handling over 24000 data rows and 10 multivariate columns.
 * Engineered features from the dataset of each utility.
+    
+</body>
+
 
